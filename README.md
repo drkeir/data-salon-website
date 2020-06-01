@@ -1,2 +1,3 @@
-# data-salon-website
-Statamic website repo for the Data Salon series for cultural data workers. 
+# Data Salon Website
+
+Repo for the public facing website for the _Data Salon_ bi-monthy salon series for cultural data workers in Sydney. 
