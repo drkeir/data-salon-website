@@ -12,4 +12,4 @@ The series is supported by the Sydney Culture Network and the UNSW Art & Design.
 
 The website is a basic Statamic brochure style site with event listing, previous event briefing notes and a signup page (MailChimp). 
 
-Authored by @drkeir
+Authored by [@drkeir](https://github.com/drkeir/)
