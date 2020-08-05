@@ -10,6 +10,6 @@ The salons began in early 2019 and are co-convened by Dr. Keir Winesmith and Dr.
 
 The series is supported by the Sydney Culture Network and the UNSW Art & Design.
 
-The website is a basic Statamic brochure style site with event listing, previous event briefing notes and a signup page (MailChimp). 
+The website is a basic (single page) brochure style site with event listing, previous event briefing notes and a signup form (MailChimp). 
 
 Authored by [@drkeir](https://github.com/drkeir/)
