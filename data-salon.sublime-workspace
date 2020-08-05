@@ -1,0 +1,426 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"data",
+				"Data-salon-7-Briefing-June2020"
+			],
+			[
+				"mb",
+				"mb1"
+			],
+			[
+				"pt",
+				"pt2"
+			],
+			[
+				"or",
+				"order-1"
+			],
+			[
+				"mo",
+				"mobile-m"
+			],
+			[
+				"grid",
+				"grid-column"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"nu",
+				"numberOfWorksWithImages"
+			],
+			[
+				"n",
+				"numberOfWorksWithImages"
+			],
+			[
+				"tem",
+				"tempRow"
+			],
+			[
+				"jso",
+				"json_encode"
+			],
+			[
+				"yea",
+				"yearInQuestion"
+			],
+			[
+				"depart",
+				"department"
+			],
+			[
+				"art",
+				"artist"
+			],
+			[
+				"ar",
+				"artist"
+			],
+			[
+				"ars",
+				"artist"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 12359,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/production.css",
+			"settings":
+			{
+				"buffer_size": 109571,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/clean-production.css",
+			"settings":
+			{
+				"buffer_size": 21686,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "/*! normalize.css v7.0.0 | MIT License | github.co"
+			}
+		},
+		{
+			"contents": "Searching 0 files for \"/img\" (case sensitive)\n\n0 matches",
+			"settings":
+			{
+				"buffer_size": 56,
+				"line_ending": "Unix",
+				"name": "Find Results",
+				"scratch": true
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"set syn",
+				"Set Syntax: SCSS"
+			],
+			[
+				"install pac",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/keir/Documents/GitHub/data-salon-website/site/themes/redwood/sass/core/layout.scss",
+		"/Users/keir/Documents/GitHub/data-salon-website/site/content/pages/4.maps/index.md",
+		"/Users/keir/Documents/GitHub/data-salon-website/site/themes/redwood/layouts/default.html",
+		"/Users/keir/GitHub/data-salon-website/site/themes/salon/sass/layouts/home.scss",
+		"/Users/keir/GitHub/data-salon-website/site/themes/salon/sass/salon.scss",
+		"/Users/keir/GitHub/data-salon-website/package.json",
+		"/Users/keir/GitHub/data-salon-website/site/themes/salon/templates/default.html",
+		"/Users/keir/GitHub/data-salon-website/site/themes/salon/templates/home.html",
+		"/Users/keir/Documents/Programming Projects/MCN/conference.mcn.edu/fieldtrips.cfm.1.html",
+		"/Users/keir/GitHub/pixelmasher/all-photos-from-the-1890s.json",
+		"/Users/keir/GitHub/pixelmasher/all-photos-from-the-70s.json",
+		"/Users/keir/GitHub/SFMOMAsamples/download1989.json",
+		"/Users/keir/GitHub/SFMOMAsamples/download.json",
+		"/Users/keir/GitHub/SFMOMAsamples/1969-at-sfmoma"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+			"img"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"body",
+			"color",
+			"600",
+			"color",
+			"size",
+			"font",
+			"/img"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"img",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12359,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2089,
+								2123
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 587.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "css/production.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 109571,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								13240,
+								13243
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1332.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "css/clean-production.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 21686,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								18335,
+								18326
+							]
+						],
+						"settings":
+						{
+							"auto_name": "/*! normalize.css v7.0.0 | MIT License | github.co",
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 19030.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 56,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"detect_indentation": false,
+							"line_numbers": false,
+							"output_tag": 1,
+							"result_base_dir": "",
+							"result_file_regex": "^([^ \t].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "data-salon.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 267.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
