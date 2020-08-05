@@ -1,6 +1,6 @@
 # Data Salon Website
 
-Repo for the public facing website for the _Data Salon_. 
+Repo for the public facing website for the _Data Salon_ (https://data-salon.org)
 
 The Sydney Cultural Data Salon is a bi-monthly meeting for cultural workers and institutions interested or involved in the use of cultural data.
 
